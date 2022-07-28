@@ -1,2 +1,2 @@
 # ThinkBayes
-Manter os códigos e exemplos usados no livro arquivo
+Manter os códigos e exemplos usados no livro.
